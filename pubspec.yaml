@@ -1,10 +1,10 @@
 name: flutter_paybox
 description: A Flutter package for paybox
-version: 1.2.0
+version: 1.2.1
 homepage: https://github.com/urmatt/flutter_paybox
 
 environment:
-  sdk: ">=3.0.0 <=3.4.0"
+  sdk: ">=3.0.0 <=3.5.2"
   flutter: ">=3.10.5"
 
 dependencies:
