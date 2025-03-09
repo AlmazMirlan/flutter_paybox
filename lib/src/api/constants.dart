@@ -1,4 +1,4 @@
-const BASE_URL = "https://api.paybox.money/";
+const BASE_URL = "https://api.freedompay.kg/";
 const GET_STATUS = "get_status.php";
 const INIT_PAYMENT = "init_payment.php";
 const REVOKE = "revoke.php";
